@@ -21,3 +21,4 @@ I’m **Youkyung Hong**, a Senior Researcher at the Electronics and Telecommunic
 
 Stay tuned — this site will host my projects, blog, and publications!
 
+👉 [View my full CV here](/cv/)
