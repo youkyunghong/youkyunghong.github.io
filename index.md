@@ -1,8 +1,12 @@
 ---
 layout: home
-title: Youkyung Hong's Homepage
-subtitle: Researcher in Autonomous UAVs, RL-based Clustering, and PINN
+title: Youkyung Hong's Homepage 
 ---
+
+<nav>
+  <a href="/">Home</a> |
+  <a href="/cv/">CV</a>
+</nav>
 
 I’m **Youkyung Hong**, a Senior Researcher at the Electronics and Telecommunications Research Institute (ETRI), Daejeon, South Korea. I received my B.S. degree in Mechanical Engineering from POSTECH in 2010, and my M.S. and Ph.D. degrees in Mechanical and Aerospace Engineering from Seoul National University in 2012 and 2018, respectively. My research interests include optimization and its applications to various systems.
 
