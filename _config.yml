@@ -25,7 +25,12 @@ navbar-links:
   Publications: "cv"
   Honors and Awards: "honors"
 
-
+nav:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+    
 ################
 # --- Logo --- #
 ################
