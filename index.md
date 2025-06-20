@@ -97,6 +97,5 @@ I’m **Youkyung Hong**, a senior researcher at Electronics and Telecommunicatio
 # 📎 Contact
 
 - Email: youkyh1@etri.re.kr 
-- Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=8wGZOjMAAAAJ)  
-- GitHub: [youkyunghong on GitHub](https://github.com/youkyunghong)
+- Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=8wGZOjMAAAAJ)   
 
