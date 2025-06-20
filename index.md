@@ -96,7 +96,7 @@ I’m **Youkyung Hong**, a senior researcher at Electronics and Telecommunicatio
 
 # 📎 Contact
 
-Email: your.email@example.com  
-Google Scholar: [Link]  
-GitHub: [Link]
+- Email: youkyh1@etri.re.kr 
+- Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=8wGZOjMAAAAJ)  
+- GitHub: [youkyh1 on GitHub](https://github.com/youkyh1)
 
