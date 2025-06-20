@@ -5,9 +5,8 @@ title: "Youkyung Hong"
 
 <nav style="text-align:center; margin-bottom: 2em;">
   <a href="/" style="margin: 0 15px;">Home</a>
-  <a href="/cv/" style="margin: 0 15px;">CV</a>
-  <a href="/projects/" style="margin: 0 15px;">Projects</a>
-  <a href="https://scholar.google.com/" target="_blank" style="margin: 0 15px;">Google Scholar</a>
+  <a href="/cv/" style="margin: 0 15px;">Publications</a>
+  <a href="/projects/" style="margin: 0 15px;">Projects</a> 
 </nav>
 
 # 👋 About Me
