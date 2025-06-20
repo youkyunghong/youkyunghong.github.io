@@ -11,7 +11,7 @@ title: "Youkyung Hong"
 
 # 👋 About Me
 
-I’m **Youkyung Hong**, a Senior Researcher at the Electronics and Telecommunications Research Institute (ETRI), Daejeon, South Korea. I received my B.S. degree in Mechanical Engineering from POSTECH in 2010, and my M.S. and Ph.D. degrees in Mechanical and Aerospace Engineering from Seoul National University in 2012 and 2018, respectively. My research interests include optimization and its applications to unmanned vehicle systems.
+I’m **Youkyung Hong**, a senior researcher at Electronics and Telecommunications Research Institute (ETRI), Daejeon, South Korea. I received my B.S. degree in Mechanical Engineering from POSTECH in 2010, and my M.S. and Ph.D. degrees in Mechanical and Aerospace Engineering from Seoul National University in 2012 and 2018, respectively. My research interests include optimization and its applications to unmanned vehicle systems.
 
 ### 🔍 Interests
 - Heuristics and sub-optimal solutions
