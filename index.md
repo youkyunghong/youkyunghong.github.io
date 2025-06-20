@@ -20,11 +20,9 @@ I’m **Youkyung Hong**, a senior researcher at Electronics and Telecommunicatio
 
 - Reinforcement learning
 
-- Aircraft conflict resolution
+- Air traffic management: aircraft conflict resolution, aircraft sequencing and scheduling
 
-- Aircraft sequencing and scheduling
-
-- Autonomous multi-UAV system
+- Autonomous multi-UAV system: mission planning, path planning
  
 ---
 
