@@ -11,14 +11,34 @@ title: "Youkyung Hong"
 
 # 👋 About Me
 
-I’m **Youkyung Hong**, a researcher working on intelligent multi-UAV systems, air traffic control, and optimization-based mission planning.  
-I am currently [당신의 소속 추가 가능].  
-My research interests include multi-agent coordination, conflict resolution, and UAV path planning.
+I’m **Youkyung Hong**, a Senior Researcher at the Electronics and Telecommunications Research Institute (ETRI), Daejeon, South Korea. I received my B.S. degree in Mechanical Engineering from POSTECH in 2010, and my M.S. and Ph.D. degrees in Mechanical and Aerospace Engineering from Seoul National University in 2012 and 2018, respectively. My research interests include optimization and its applications to unmanned vehicle systems.
+
+### 🔍 Interests
+- Heuristics and sub-optimal solutions
+
+- Robust optimization under uncertainty
+
+- Reinforcement learning
+
+- Aircraft conflict resolution
+
+- Aircraft sequencing and scheduling
+
+- Autonomous multi-UAV system
  
 ---
 
 # 📄 International Journal Papers
 
+- **Youkyung Hong**, S. Kim\*, Y. Kwon, S. Choi, and J. Cha,  
+  “Safe and Efficient Exploration Path Planning for Unmanned Aerial Vehicle in Forest Environments,” *Aerospace*, Vol. 11, No. 7, 2024, pp. 598.
+  
+- **Youkyung Hong** and Y. Kim\*,  
+  “Two-Stage Multicriteria Decision-Making Framework for Aircraft Conflict Resolution,” *JAIS*, Vol. 20, No. 10, 2023, pp. 596-604.
+
+- **Youkyung Hong**, S. Jung\*, S. Kim, and J. Cha,  
+  “Extensions of Receding Horizon Task assignment for Area Coverage in Dynamic Environments,” *IEEE TAES*, Vol. 59, No. 3, 2022, pp. 3114-3128.
+  
 - **Youkyung Hong**, S. Jung\*, S. Kim, and J. Cha,  
   “Autonomous Mission of Multi-UAV for Optimal Area Coverage,” *Sensors*, Vol. 21, No. 7, 2021, pp. 2482.
 
@@ -51,17 +71,10 @@ My research interests include multi-agent coordination, conflict resolution, and
 
 ---
 
-## ✅ Accepted
-
-- **Youkyung Hong**, S. Jung\*, S. Kim, and J. Cha,  
-  “Extensions of Receding Horizon Task Assignment...,” *IEEE TAES*, accepted for publication, 2022.
-
----
-
 ## 🔄 Under Review
 
-- **Youkyung Hong** and Y. Kim\*,  
-  “Two-Stage Multi-Criteria Decision-Making Framework...,” *JAIS*, under review, submitted May 2022.
+- **Youkyung Hong**, D. Kim, and J. Cha,  
+  “Equitable Mission Area Partitioning for Multi-UAV Operations via Q-Learning,” *Mathematics*, under review, submitted June 2025.
 
 ---
 
