@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-# 📄 International Journal Papers
+# International Journal Papers
 
 **Youkyung Hong**, S. Jung*, S. Kim, and J. Cha, “Autonomous Mission of Multi-UAV for Optimal Area Coverage,” *Sensors*, Vol. 21, No. 7, 2021, pp. 2482.
 
